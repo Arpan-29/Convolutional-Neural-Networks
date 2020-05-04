@@ -1,2 +1,3 @@
 # Convolutional-Neural-Networks
-CNN
+
+CNN Model made using keras
