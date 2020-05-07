@@ -1,3 +1,5 @@
 # ResNet
 
-Residual Network
+### Residual Network Architecture  
+
+![](ResNet_Architecture.png)
