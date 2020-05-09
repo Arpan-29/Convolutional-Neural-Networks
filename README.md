@@ -2,8 +2,8 @@
 
 * ### Basic ConvNet
    * Implementation of basic functions like **zero_pad, conv_forward, max_pool, conv_backward** with the overall model.
-* ### TensorFlow Model
-   * Hand Sign Number detection
+* ### TensorFlow
+   * Hand Sign Number detection with training accuracy of **84.7%** and test accuracy of **71.66%**.
 * ### Keras
    * Detection of happy or sad face using simple CNN with training and testing accuracy of **99%** and **96%** respectively.
 * ### Residual Network or ResNet
