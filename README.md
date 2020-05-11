@@ -9,4 +9,5 @@
 * ### Residual Network or ResNet
    * Hand Signs Number detection with accuracy of **95.7%** on the training set and **90.8%** on the testing set.  
 * ### YOLO
-   * State-of-the-art CNN for object detection.
+   * State-of-the-art CNN for object detection (**car detection** and **boxing**).
+   * Implementation of functions like **iou, yolo_filter_boxes, yolo_non_max_suppression**, and using **leaky relu** activation.
